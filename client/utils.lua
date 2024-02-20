@@ -12,7 +12,8 @@ Utils = {
     InsideTrackActive = false,
     BigScreen = {
         enable = true, -- Set it to false if you don't need the big screen
-        coords = vector3(1092.75, 264.56, -51.24)
+       -- coords = vector3(1092.75, 264.56, -51.24)
+       coords = vector3(953.860, 85.577, 70.032)
     }
 }
 

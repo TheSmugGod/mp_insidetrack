@@ -17,7 +17,7 @@ function Utils.AddHorses(scaleform)
         BeginTextCommandScaleformString(name)
         EndTextCommandScaleformString()
 
-        ScaleformMovieMethodAddParamPlayerNameString('Cool Horse')
+        ScaleformMovieMethodAddParamPlayerNameString('LARKIN INC')
 
         -- Horse style (TODO: Random preset, different one for each horse)
         ScaleformMovieMethodAddParamInt(Utils.HorseStyles[i][1])
